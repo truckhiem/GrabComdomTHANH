@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group_1"
+        android:checkableBehavior="single"
+        >
+        <item
+            android:id="@+id/nav_email"
+            android:icon="@drawable/ic_email"
+            android:title="@string/login_email" />
+        <item
+            android:id="@+id/nav_fb"
+            android:icon="@drawable/facebook"
+            android:title="@string/login_fb" />
+        <item
+            android:id="@+id/nav_register"
+            android:icon="@drawable/register_account"
+            android:title="@string/register_account" />
+    </group>
+
+    <item android:title="@string/history">
+        <menu>
+            <item
+                android:id="@+id/order_his"
+                android:icon="@drawable/history_order"
+                android:title="@string/order_his" />
+            <item
+                android:id="@+id/comment_his"
+                android:icon="@drawable/icon_comment"
+                android:title="@string/comment_his" />
+        </menu>
+    </item>
+
+    <item android:title="@string/orther">
+        <menu>
+            <item
+                android:id="@+id/information"
+                android:icon="@drawable/icon_infomation"
+                android:title="@string/infor_app" />
+            <item
+                android:id="@+id/settings"
+                android:icon="@drawable/icon_settting"
+                android:title="@string/action_settings" />
+        </menu>
+    </item>
+
+</menu>

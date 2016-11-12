@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">Grabcondom</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="google_android_map_api_key">AIzaSyCDhCgxHBDPgHkmzWin6-_n5GPHWUoHYmM</string>
+    <string name="action_settings">Settings</string>
+
+    //Menu
+    <string name="infor_app">Information Application</string>
+    <string name="comment_his">Comment History</string>
+    <string name="order_his">Order History</string>
+    <string name="login_fb">Login with facebook</string>
+    <string name="login_email">Login with email</string>
+    <string name="register_account">Register a new account?</string>
+    <string name="orther">Other</string>
+    <string name="history">History</string>
+    <string name="login">LOGIN</string>
+    <string name="login_t">Login</string>
+    <string name="shop_online">SHOP\nONLINE</string>
+    <string name="new_bg">NEW</string>
+    <string name="arrivals_bg">ARRIVALS</string>
+    <string name="new_arrivals_bg">NEW\nARRIVAL</string>
+    <string name="contact_us">CONTACT\nUS</string>
+    <string name="contactus">CONTACT US</string>
+    <string name="ed_pass">Password</string>
+    <string name="enter_email">Enter email here</string>
+    <string name="enter_pass">Enter pass here</string>
+    <string name="enter_full_name">Enter full name here</string>
+    <string name="grab_info">GrabCondom is a Social enterprise that helps people to search for, review stores providing condoms, lubricant, HIV prevention products and other safe sexual products in Vietnam. GrabCondom 02 application version online: Website - www.grabcondom.com and mobile applications.</string>
+    <string name="contact_us_infor">Contact Us</string>
+    <string name="address_infor">8th Floor - Building Kicotrans, 5 Dong Da street, Ward 2, Tan Binh, Ho Chi Minh City.</string>
+    <string name="email_infor">Email: infor@grabcondom.com</string>
+    <string name="skype_infor">Skype: dragonfroot.quynhbta</string>
+    <string name="sales_infor">Sales: 08.983.08.985</string>
+    <string name="language">Language</string>
+    <string name="notifacation">Notification</string>
+    <string name="vietnamese">Vietnamese</string>
+    <string name="yes">Yes</string>
+    <string name="version">Version 1.0</string>
+    <string name="register">REGISTER</string>
+    <string name="address">ADDRESS</string>
+    <string name="address_dialog">Address</string>
+    <string name="address_company">8th Floor - Building Kicotrans, 5 Dong Da street, Ward 2,\nTan Binh, Ho Chi Minh City.</string>
+    <string name="phone">PHONE</string>
+    <string name="number_phone">08.983.08.985</string>
+    <string name="call">Call</string>
+    <string name="send">Send</string>
+    <string name="company">COMPANY</string>
+    <string name="name_company">PHARMAGROUP Co.,LTD</string>
+    <string name="tv_hiv_test">LIST OF HIV TEST WHERE AREAS IN\nHO CHI MINH CITY</string>
+    <string name="all">All</string>
+    <string name="free_consultation">Free Consultation</string>
+    <string name="consultation_fee">Consultation for a fee</string>
+    <string name="path">Community consultation held Path</string>
+    <string name="nearby">Nearby</string>
+    <string name="view_map">View Map</string>
+    <string name="order_date">Order Date:</string>
+    <string name="total_money">Total:</string>
+    <string name="status">Status:</string>
+    <string name="shop">Shop:</string>
+    <string name="status_new">New</string>
+    <string name="status_processing">Processing</string>
+    <string name="status_cancel">Cancel</string>
+    <string name="status_close">Close</string>
+    <string name="status_on_hold">On Hold</string>
+    <string name="status_complte">Complete</string>
+    <string name="text_email_get_pass">Please enter your email to retrieve your password.\nThanks!</string>
+    <string name="get_pass">Submit</string>
+    <string name="check_email_forgot">Please check email to reset your password.\n Thank you!</string>
+    <string name="invalid_email">Invalid email address.</string>
+    <string name="forgot_pass">Forgot password</string>
+    <string name="input_email_pass">Please enter your email to retrieve your password.\nThanks!</string>
+
+    <string name="facebook_app_id">318830178502352</string>
+    <string name="delivery">Delivery:</string>
+    <string name="no">No</string>
+    <string name="filter_product">Type of Product</string>
+    <string name="number_product">Product</string>
+    <string name="comment">Comment</string>
+    <string name="review">Review</string>
+    <string name="information">Information</string>
+    <string name="updating">Updating</string>
+    <string name="API">http://grabcondom.com/media/</string>
+    <string name="alert_address">Please enter the full information and to find your nearest store.\nThank you!</string>
+    <string name="ok">Ok</string>
+
+    <string name="condom">Condom</string>
+    <string name="gel_massage">Gel - Massage</string>
+    <string name="love_toys">Love Toys</string>
+
+    <string name="tanbinh">Tan Binh</string>
+    <string name="govap">Go Vap</string>
+    <string name="thuduc">Thu Duc</string>
+    <string name="binhchanh">Binh Chanh</string>
+    <string name="cuchi">Cu Chi</string>
+    <string name="hoocmon">Hoc Mon</string>
+    <string name="phunhuan">Phu Nhuan</string>
+    <string name="binhtan">Binh Tan</string>
+    <string name="tanphu">Tan Phu</string>
+    <string name="binhthanh">Binh Thanh</string>
+    <string name="cangio">Can Gio</string>
+    <string name="nhabe">Nha Be</string>
+    <string name="quan1">District 1</string>
+    <string name="quan2">District 2</string>
+    <string name="quan3">District 3</string>
+    <string name="quan4">District 4</string>
+    <string name="quan5">District 5</string>
+    <string name="quan6">District 6</string>
+    <string name="quan7">District 7</string>
+    <string name="quan8">District 8</string>
+    <string name="quan9">District 9</string>
+    <string name="quan10">District 10</string>
+    <string name="quan11">District 11</string>
+    <string name="quan12">District 12</string>
+
+    <string name="hochiminh">Ho Chi Minh</string>
+
+    <string name="updating_product">Current product catalog shop is being updated. You sympathize for the inconvenience. Thank you!</string>
+
+    <string name="mk_khongkhop">Confirm password is not correct.</string>
+    <string name="nhapdaydu_tt">Please enter correct password to complete register form.\nThank you!</string>
+    <string name="email_error">Email account incorrect.</string>
+    <string name="mk_6kitu">Passwords must be at least 6 characters</string>
+
+    <string name="add_comment">Add New Comment</string>
+    <string name="quality">Quality:</string>
+    <string name="service">Service:</string>
+    <string name="price">Price:</string>
+    <string name="email_addres">Your email address*</string>
+    <string name="nick_name">Nick name*</string>
+
+    <string name="tk_tontai">This account already exists.</string>
+    <string name="dk_thanhcong">You have successfully registered. Login to use better applications.\nThanks!</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="loading">Loading...</string>
+    <string name="nhapdaydu_tt_dn">Please enter enough and accurate information to login.\nThanks!</string>
+    <string name="dangnhap_loi">Invalid login or password.</string>
+
+    <string name="datmua">Place Order</string>
+    <string name="detail">Detail</string>
+    <string name="description">Description</string>
+    <string name="image">Image</string>
+    <string name="seller">Seller</string>
+
+    <string name="price_vnd"> VND</string>
+    
+</resources>

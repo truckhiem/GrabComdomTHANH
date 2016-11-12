@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_blur">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_email_get_pass"
+        android:gravity="center"
+        android:textColor="@color/colorWhite"
+        android:layout_marginTop="@dimen/margin"
+        android:textSize="16dp"/>
+    <EditText
+        android:id="@+id/ed_email_get_pass"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/bg_edittext_icon"
+        android:inputType="textEmailAddress"
+        android:drawableLeft="@drawable/ic_email"
+        android:drawablePadding="@dimen/margin"
+        android:layout_marginRight="@dimen/margin"
+        android:layout_marginLeft="@dimen/margin"
+        android:layout_marginTop="@dimen/margin"
+        android:paddingLeft="2dp"
+        android:paddingRight="12dp"
+        android:paddingTop="12dp"
+        android:paddingBottom="12dp"
+        android:hint="@string/enter_email"
+        />
+    <Button
+        android:id="@+id/btnSubmit"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/get_pass"
+        android:layout_gravity="center"
+        android:background="@drawable/bg_my_btn"
+        android:textColor="@color/colorWhite"
+        android:layout_marginTop="20dp"
+        />
+
+</LinearLayout>

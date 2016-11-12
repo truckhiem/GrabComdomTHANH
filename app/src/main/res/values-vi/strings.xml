@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">Grabcondom</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="google_android_map_api_key">AIzaSyCDhCgxHBDPgHkmzWin6-_n5GPHWUoHYmM</string>
+    <string name="action_settings">Cài đặt</string>
+
+    //Menu
+    <string name="infor_app">Thông tin</string>
+    <string name="comment_his">Lịch sử bình luận</string>
+    <string name="order_his">Lịch sử đặt hàng</string>
+    <string name="login_fb">Đăng nhập với Facebook</string>
+    <string name="login_email">Đăng nhập với Email</string>
+    <string name="register_account">Đăng ký tài khoản mới?</string>
+    <string name="orther">Other</string>
+    <string name="history">Lịch sử</string>
+    <string name="login">ĐĂNG NHẬP</string>
+    <string name="login_t">Đăng nhập</string>
+    <string name="shop_online">CỬA\nHÀNG</string>
+    <string name="new_bg">SẢN PHẨM</string>
+    <string name="arrivals_bg">MỚI</string>
+    <string name="new_arrivals_bg">SẢN PHẨM\nMỚI</string>
+    <string name="contact_us">LIÊN\nHỆ</string>
+    <string name="contactus">LIÊN HỆ</string>
+    <string name="ed_pass">Mật khẩu</string>
+    <string name="enter_email">Nhập email ở đây</string>
+    <string name="enter_pass">Nhập mật khẩu ở đây</string>
+    <string name="enter_full_name">Nhập đầy đủ họ tên ở đây</string>
+    <string name="grab_info">GrabCondom là một cộng đồng tin cậy hỗ trợ mọi người dễ dàng tìm kiếm, đánh giá, bình luận các cửa hàng cung cấp bao cao su, chất bôi trơn, các sản phẩm dự phòng HIV và sản phẩm sức khỏe tình dục khác… tại Việt Nam. GrabCondom có 02 phiên bản ứng dụng online: Website – www.grabcondom.com và ứng dụng trên di động.</string>
+    <string name="contact_us_infor">Liên </string>
+    <string name="address_infor">Lầu 8 - Toà nhà Kiscotrans, 05 Đống Đa, Phường 12, Tân Bình, Hồ Chí Minh.</string>
+    <string name="email_infor">Email: infor@grabcondom.com</string>
+    <string name="skype_infor">Skype: dragonfroot.quynhbta</string>
+    <string name="sales_infor">Phòng Kinh Doanh: 08.983.08.985</string>
+    <string name="language">Ngôn </string>
+    <string name="notifacation">Thông báo</string>
+    <string name="vietnamese">Tiếng anh</string>
+    <string name="yes">Có</string>
+    <string name="version">Phiên bản 1.0</string>
+    <string name="register">ĐĂNG KÝ</string>
+    <string name="address">ĐỊA CHỈ</string>
+    <string name="address_dialog">Địa chỉ</string>
+    <string name="address_company">Lầu 8 - Toà nhà Kiscotrans, 05 Đống Đa, Phường 12,\nTân Bình, Hồ Chí Minh.</string>
+    <string name="phone">SỐ ĐIỆN THOẠI</string>
+    <string name="number_phone">08.983.08.985</string>
+    <string name="call">Gọi</string>
+    <string name="send">Gửi</string>
+    <string name="company">CÔNG TY</string>
+    <string name="name_company">TNHH PHARMAGROUP</string>
+    <string name="tv_hiv_test">ĐỊA ĐIỂM TEST HIV TRÊN ĐỊA BÀN TP.HỒ CHÍ MINH</string>
+    <string name="all">Tất </string>
+    <string name="free_consultation">Tham vấn miễn phí</string>
+    <string name="consultation_fee">Tham vấn có thu phí</string>
+    <string name="path">Tham vấn cộng đồng Path</string>
+    <string name="nearby">Gần bạn</string>
+    <string name="view_map">Bản Đồ</string>
+    <string name="order_date">Ngày đặt hàng:</string>
+    <string name="total_money">Tổng cộng:</string>
+    <string name="status">Trạng thái:</string>
+    <string name="shop">Cửa hàng:</string>
+    <string name="status_new">Mới</string>
+    <string name="status_processing">Đang xử lý</string>
+    <string name="status_cancel">Huỷ</string>
+    <string name="status_close">Đóng</string>
+    <string name="status_on_hold">Tạm hoãn</string>
+    <string name="status_complte">Hoàn thành</string>
+    <string name="text_email_get_pass">Vui lòng nhập email để lấy lại mật khẩu.\nCảm ơn!</string>
+    <string name="get_pass">Gửi</string>
+    <string name="check_email_forgot">Vui lòng check email của bạn để lấy lại mật khẩu.\nCảm ơn!</string>
+    <string name="invalid_email">Địa chỉ email không đúng.</string>
+    <string name="forgot_pass">Quên mật khẩu</string>
+    <string name="input_email_pass">Please enter your email to retrieve your password.\nThanks!</string>
+
+    <string name="facebook_app_id">318830178502352</string>
+    <string name="delivery">Giao hàng:</string>
+    <string name="no">Không</string>
+    <string name="filter_product">Loại Sản Phẩm</string>
+    <string name="number_product">Sản phẩm</string>
+    <string name="comment">Bình luận</string>
+    <string name="review">Đánh giá</string>
+    <string name="information">Thông tin</string>
+    <string name="updating">Cập nhật</string>
+    <string name="API">http://grabcondom.com/media/</string>
+    <string name="alert_address">Vui lòng nhập đầy đủ thông tin, để tìm cửa hàng gần bạn nhất.\nCảm ơn!</string>
+    <string name="ok">Đồng Ý</string>
+
+    <string name="condom">Bao Cao Su</string>
+    <string name="gel_massage">Gel - Bôi Trơn</string>
+    <string name="love_toys">Love Toys</string>
+
+    <string name="tanbinh">Tân Bình</string>
+    <string name="govap">Gò Vấp</string>
+    <string name="thuduc">Thủ Đức</string>
+    <string name="binhchanh">Bình Chánh</string>
+    <string name="cuchi">Củ Chi</string>
+    <string name="hoocmon">Hóc Môn</string>
+    <string name="phunhuan">Phú Nhuận</string>
+    <string name="binhtan">Bình Tân</string>
+    <string name="tanphu">Tân Phú</string>
+    <string name="binhthanh">Bình Thạnh</string>
+    <string name="cangio">Cần Giờ</string>
+    <string name="nhabe">Nhà Bè</string>
+    <string name="quan1">Quận 1</string>
+    <string name="quan2">Quận 2</string>
+    <string name="quan3">Quận 3</string>
+    <string name="quan4">Quận 4</string>
+    <string name="quan5">Quận 5</string>
+    <string name="quan6">Quận 6</string>
+    <string name="quan7">Quận 7</string>
+    <string name="quan8">Quận 8</string>
+    <string name="quan9">Quận 9</string>
+    <string name="quan10">Quận 10</string>
+    <string name="quan11">Quận 11</string>
+    <string name="quan12">Quận 12</string>
+
+    <string name="hochiminh">Hồ Chí Minh</string>
+
+    <string name="updating_product">Hiện tại danh mục sản phẩm cửa hàng đang được cập nhật. Bạn thông cảm cho sự bất tiện này. Cảm ơn!</string>
+
+    <string name="mk_khongkhop">Bạn đăng ký không thành công. Mật khẩu không khớp.\nCảm ơn!</string>
+    <string name="nhapdaydu_tt">Vui lòng nhập đầy đủ thông tin và mật khẩu phải từ sáu ký tự trở lên.\nCảm ơn!</string>
+    <string name="email_error">Email của bạn không đúng, vui lòng nhập đúng email và thử lại. Cảm ơn!</string>
+    <string name="mk_6kitu">Mật khẩu phải từ 6 ký tự.</string>
+
+    <string name="add_comment">Thêm Bình Luận Mới</string>
+    <string name="quality">Chất lượng:</string>
+    <string name="service">Hệ thống:</string>
+    <string name="price">Giá:</string>
+    <string name="email_addres">Địa chỉ email của bạn*</string>
+    <string name="nick_name">Biệt danh*</string>
+
+    <string name="tk_tontai">Tài khoản này đã tồn tại.</string>
+    <string name="dk_thanhcong">Bạn đã đăng ký thành công. Đăng nhập để sử dụng ứng dụng tốt hơn.\nCảm ơn!</string>
+    <string name="sign_up">Đăng Ký</string>
+    <string name="loading">Đang tải...</string>
+    <string name="nhapdaydu_tt_dn">Vui lòng nhập đầy đủ thông tin và chính xác để đăng nhập.\nCảm ơn!</string>
+    <string name="dangnhap_loi">Tài khoản hoặc mật khẩu không đúng</string>
+
+    <string name="datmua">Đặt Mua</string>
+    <string name="detail">Xem chi tiết</string>
+    <string name="description">Mô Tả</string>
+    <string name="image">Hình Ảnh</string>
+    <string name="seller">Cửa Hàng</string>
+
+    <string name="price_vnd"> VND</string>
+
+</resources>

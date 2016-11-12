@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.dfr.grabcondom">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:theme="@style/MyMaterialTheme" >
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_android_map_api_key"/>
+
+        <activity android:name=".activity.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.MainActivity">
+        </activity>
+        <activity android:name=".activity.ContactUs">
+        </activity>
+        <activity android:name=".Facebook">
+        </activity>
+        <activity android:name=".activity.HIVTest">
+        </activity>
+        <activity android:name=".LoveStory">
+        </activity>
+        <activity android:name=".activity.ShopOnline">
+        </activity>
+        <activity android:name=".activity.NewArrival">
+        </activity>
+        <activity android:name=".activity.CommentHistory">
+        </activity>
+        <activity android:name=".activity.InformationApp">
+        </activity>
+        <activity android:name=".activity.SettingsApp"/>
+        <activity android:name=".activity.OrderHistory"/>
+        <activity android:name=".activity.LoginEmail"/>
+        <activity android:name=".activity.RegisterAccount"/>
+        <activity android:name=".activity.ForgotPass"/>
+
+        <activity android:name=".activity.DetailShopOnline">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".activity.ShopOnline"/>
+        </activity>
+
+        <activity android:name=".activity.DetailProduct">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".activity.DetailShopOnline"/>
+        </activity>
+
+        <activity android:name=".activity.MapViewShop">
+
+        </activity>
+
+        <activity android:name="com.facebook.FacebookActivity"
+            android:configChanges=
+                "keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:label="@string/app_name" />
+    </application>
+    <service android:name="com.mapbox.mapboxsdk.telemetry.TelemetryService" />
+
+</manifest>
